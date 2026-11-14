@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <a href="https://manideiz.github.io/"><b>→&nbsp; manideiz.github.io</b></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/MPC%20OS-3.10.1%2B-f0a80e?style=for-the-badge&labelColor=141414" alt="MPC OS 3.10.1 or later">
   <img src="https://img.shields.io/badge/no%20computer-needed-f0a80e?style=for-the-badge&labelColor=141414" alt="No computer needed">
   <img src="https://img.shields.io/badge/made%20on-MPC%20Live%20III-f0a80e?style=for-the-badge&labelColor=141414" alt="Made on an MPC Live III">
