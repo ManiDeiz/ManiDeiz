@@ -22,15 +22,16 @@
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="assets/wax-digger.png" alt="Wax Digger: a record digger inside the MPC" width="290">
+      <a href="https://github.com/ManiDeiz/wax-digger"><img src="assets/wax-digger.png" alt="Wax Digger: a record digger inside the MPC" width="290"></a>
       <h3>WAX DIGGER</h3>
       <p><b>A record digger inside your MPC.</b><br>
       Search, tap a title, hear it at once, record the part you want. Over Wi-Fi, no computer.</p>
       <p>
         <img src="https://img.shields.io/badge/instrument-f0a80e?style=flat-square&labelColor=141414" alt="Instrument">
-        <img src="https://img.shields.io/badge/private%20beta-c8283c?style=flat-square" alt="Private beta">
+        <img src="https://img.shields.io/badge/free-f04e37?style=flat-square" alt="Free">
+        <img src="https://img.shields.io/badge/beta-c8283c?style=flat-square" alt="Beta">
       </p>
-      <p><sub>In private beta with a few beatmakers. Not public yet.</sub></p>
+      <p><a href="https://github.com/ManiDeiz/wax-digger"><b>Open the page&nbsp;→</b></a></p>
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/ManiDeiz/mpc-master"><img src="assets/mpc-master.png" alt="MPC Master: a mastering chain on one MPC screen" width="290"></a>
