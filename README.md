@@ -17,8 +17,19 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/ManiDeiz/mpc-master"><img src="assets/mpc-master.png" alt="MPC Master: a mastering chain on one MPC screen" width="420"></a>
+    <td width="33%" valign="top" align="center">
+      <img src="assets/wax-digger.png" alt="Wax Digger: a record digger inside the MPC" width="290">
+      <h3>WAX DIGGER</h3>
+      <p><b>A record digger inside your MPC.</b><br>
+      Search, tap a title, hear it at once, record the part you want. Over Wi-Fi, no computer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/instrument-f0a80e?style=flat-square&labelColor=141414" alt="Instrument">
+        <img src="https://img.shields.io/badge/private%20beta-c8283c?style=flat-square" alt="Private beta">
+      </p>
+      <p><sub>In private beta with a few beatmakers. Not public yet.</sub></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/ManiDeiz/mpc-master"><img src="assets/mpc-master.png" alt="MPC Master: a mastering chain on one MPC screen" width="290"></a>
       <h3>MPC MASTER</h3>
       <p><b>A whole mastering chain on one screen.</b><br>
       Compressor, punch, tape, 12-bit resampler, stereo, tone and a limiter that never clips.</p>
@@ -28,16 +39,16 @@
       </p>
       <p><a href="https://github.com/ManiDeiz/mpc-master"><b>Open the page&nbsp;→</b></a></p>
     </td>
-    <td width="50%" valign="top" align="center">
-      <img src="assets/wax-digger.png" alt="Wax Digger: a record digger inside the MPC" width="420">
-      <h3>WAX DIGGER</h3>
-      <p><b>A record digger inside your MPC.</b><br>
-      Search, tap a title, hear it at once, record the part you want. Over Wi-Fi, no computer.</p>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/ManiDeiz/deluxe-eq"><img src="assets/deluxe-eq.png" alt="Deluxe EQ: a 7-band equalizer driven by touch" width="290"></a>
+      <h3>DELUXE EQ</h3>
+      <p><b>A 7-band EQ you play with your finger.</b><br>
+      Touch a dot on the curve and drag it. Bells, shelves, steep cuts, notch and band-pass.</p>
       <p>
-        <img src="https://img.shields.io/badge/instrument-f0a80e?style=flat-square&labelColor=141414" alt="Instrument">
-        <img src="https://img.shields.io/badge/private%20beta-c8283c?style=flat-square" alt="Private beta">
+        <img src="https://img.shields.io/badge/effect-ffd43b?style=flat-square&labelColor=1e1e1e" alt="Effect">
+        <img src="https://img.shields.io/badge/free-f04e37?style=flat-square" alt="Free">
       </p>
-      <p><sub>In private beta with a few beatmakers. Not public yet.</sub></p>
+      <p><a href="https://github.com/ManiDeiz/deluxe-eq"><b>Open the page&nbsp;→</b></a></p>
     </td>
   </tr>
 </table>
