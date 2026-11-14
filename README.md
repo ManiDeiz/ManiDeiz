@@ -70,6 +70,13 @@ The same four steps for all of them:
 
 You need **MPC OS 3.10.1 or later**: older firmware cannot load third-party plugins.
 
+## Found a bug?
+
+Write to **[manideiz.plugins@proton.me](mailto:manideiz.plugins@proton.me)** with:
+
+- your MPC model and its MPC OS version,
+- what you did and what happened.
+
 ## Rights
 
 The plugins are **© MANI DEÏZ, all rights reserved**. The free ones are free to use; please share the link to their page
