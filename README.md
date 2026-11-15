@@ -56,6 +56,41 @@
       <p><a href="https://github.com/ManiDeiz/deluxe-eq"><b>Open the page&nbsp;→</b></a></p>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/ManiDeiz/shuffle-drummer"><img src="assets/shuffle-drummer.png" alt="Shuffle Drummer: the SHUFFLE wheel and six drum tracks on the MPC" width="290"></a>
+      <h3>SHUFFLE DRUMMER</h3>
+      <p><b>The drum machine of shuffledrummer.com.</b><br>
+      Turn the wheel: a new beat, in time with the MPC. Four knobs, a mixer, a step grid, the pads.</p>
+      <p>
+        <img src="https://img.shields.io/badge/instrument-f0a80e?style=flat-square&labelColor=141414" alt="Instrument">
+        <img src="https://img.shields.io/badge/free-f04e37?style=flat-square" alt="Free">
+      </p>
+      <p><a href="https://github.com/ManiDeiz/shuffle-drummer"><b>Open the page&nbsp;→</b></a></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/ManiDeiz/amp-rig"><img src="assets/amp-rig.png" alt="Amp Rig: amp, cabinet, mic and three pedals on one MPC screen" width="290"></a>
+      <h3>AMP RIG</h3>
+      <p><b>A whole guitar and bass rig in one insert.</b><br>
+      Nine amps, seven cabinets, a granular cloud with freeze, four delays and four reverbs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/effect-ffd43b?style=flat-square&labelColor=1e1e1e" alt="Effect">
+        <img src="https://img.shields.io/badge/free-f04e37?style=flat-square" alt="Free">
+      </p>
+      <p><a href="https://github.com/ManiDeiz/amp-rig"><b>Open the page&nbsp;→</b></a></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/ManiDeiz/rooms"><img src="assets/live-rooms.png" alt="Live Rooms: real rooms and echo chambers heard through three mic pairs" width="290"></a>
+      <h3>LIVE ROOMS</h3>
+      <p><b>Real rooms and echo chambers around your sounds.</b><br>
+      Fifteen rooms simulated physically, heard through Near, Mid and Far microphones.</p>
+      <p>
+        <img src="https://img.shields.io/badge/effect-ffd43b?style=flat-square&labelColor=1e1e1e" alt="Effect">
+        <img src="https://img.shields.io/badge/free-f04e37?style=flat-square" alt="Free">
+      </p>
+      <p><a href="https://github.com/ManiDeiz/rooms"><b>Open the page&nbsp;→</b></a></p>
+    </td>
+  </tr>
 </table>
 
 ## How to install a plugin
