@@ -58,17 +58,6 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/ManiDeiz/shuffle-drummer"><img src="assets/shuffle-drummer.png" alt="Shuffle Drummer: the SHUFFLE wheel and six drum tracks on the MPC" width="290"></a>
-      <h3>SHUFFLE DRUMMER</h3>
-      <p><b>The drum machine of shuffledrummer.com.</b><br>
-      Turn the wheel: a new beat, in time with the MPC. Four knobs, a mixer, a step grid, the pads.</p>
-      <p>
-        <img src="https://img.shields.io/badge/instrument-f0a80e?style=flat-square&labelColor=141414" alt="Instrument">
-        <img src="https://img.shields.io/badge/free-f04e37?style=flat-square" alt="Free">
-      </p>
-      <p><a href="https://github.com/ManiDeiz/shuffle-drummer"><b>Open the page&nbsp;→</b></a></p>
-    </td>
-    <td width="33%" valign="top" align="center">
       <a href="https://github.com/ManiDeiz/amp-rig"><img src="assets/amp-rig.png" alt="Amp Rig: amp, cabinet, mic and three pedals on one MPC screen" width="290"></a>
       <h3>AMP RIG</h3>
       <p><b>A whole guitar and bass rig in one insert.</b><br>
