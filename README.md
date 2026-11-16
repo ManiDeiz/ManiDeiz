@@ -79,6 +79,17 @@
       </p>
       <p><a href="https://github.com/ManiDeiz/rooms"><b>Open the page&nbsp;→</b></a></p>
     </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/ManiDeiz/eps1995"><img src="assets/eps1995.png" alt="EPS1995: a rack-front reverb with a green display, on one MPC screen" width="290"></a>
+      <h3>EPS1995</h3>
+      <p><b>The reverb of an early-90s sampler.</b><br>
+      Hall, Room, Plate and Ambience, 16-bit memory, and the sampler's bandwidth from 44.6 to 11.2 kHz.</p>
+      <p>
+        <img src="https://img.shields.io/badge/effect-ffd43b?style=flat-square&labelColor=1e1e1e" alt="Effect">
+        <img src="https://img.shields.io/badge/free-f04e37?style=flat-square" alt="Free">
+      </p>
+      <p><a href="https://github.com/ManiDeiz/eps1995"><b>Open the page&nbsp;→</b></a></p>
+    </td>
   </tr>
 </table>
 
